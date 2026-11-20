@@ -1,4 +1,4 @@
-# EEG Laser-Evoked Pain Classification (`eeg_pain_research`)
+# EEG Laser-Evoked Nociceptive Pain Classification (`eeg_pain_research`)
 
 An end-to-end Python pipeline for spectral feature extraction (Absolute Power, Relative Power, and ERD/ERS%) and machine learning classification of laser-evoked pain intensity from 62-channel electroencephalography (EEG) recordings ($N = 51$ subjects).
 
