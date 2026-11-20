@@ -1,0 +1,12 @@
+# Ignorar datos crudos de EEG y resultados generados
+*.mat
+*.csv
+*.xlsx
+Datos_Control/
+
+# Ignorar caché y entornos virtuales de Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
